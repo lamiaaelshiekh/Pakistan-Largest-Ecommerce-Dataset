@@ -66,5 +66,22 @@ This dataset includes detailed records of e-commerce transactions from Pakistan,
   - Payment method distribution
 
 ## Key Insights
+- *Mobile&Tablets* and *Men's Fashion* were top-performing categories by revenue.
+- Most customers preferred *Cash on Delivery* as the payment method.
+- Sales peaked in Q4 2017
+- September 2017 recorded the highest return rate
+
+## 🎯 Conclusion
+
+This project demonstrates how to use *data analysis tools* to drive *business intelligence* in a real-world e-commerce setting. 
+It covers everything from raw data to actionable insights and visual storytelling using Power BI.
+
 
 ## Project Folder Structure
+Pakistan-Ecommerce-Analysis/
+│
+├── data/                  # Pakistan Largest Ecommerce Dataset and Cleaned_Pakistan_Largest_Ecommerce_Dataset
+├── notebooks/             # Project_final
+├── sql_queries/           # SQLQuery project
+├── dashboard/             # project new
+└── readme.md              # Project documentation
